@@ -1,0 +1,11 @@
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\bin\Debug\CarRacing.exe.config
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\bin\Debug\CarRacing.exe
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\bin\Debug\CarRacing.pdb
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.AssemblyReference.cache
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.Form1.resources
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.Properties.Resources.resources
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.GenerateResource.cache
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.csproj.CoreCompileInputs.cache
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.exe
+C:\Users\Dragisa\source\repos\CarRacing\CarRacing\obj\Debug\CarRacing.pdb
